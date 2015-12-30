@@ -1,0 +1,23 @@
+
+
+Version:	3.4
+CmdLine:	E:\OGPC Rhythm Workspace\RhythmGenerator\Rhythm Generator.exe --l4j-debug
+WOW64:		no
+Working dir:	E:\OGPC Rhythm Workspace\RhythmGenerator\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_51
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_51
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_51
+Ignore:		1.7.0_51
+Runtime used:	1.7.0_51 (32-bit)
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-Djava.library.path=lib -jar "E:\OGPC Rhythm Workspace\RhythmGenerator\Rhythm Generator.exe"
+Args length:	92/32768 chars
+Exit code:	0
